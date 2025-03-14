@@ -15,8 +15,6 @@
   />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:77dd77,100:b4d3b2&height=5" />
-
 ## 👋 **About Me**
 I'm a Master’s student in Computer Science at NOVA FCT, with a strong interest in software engineering. I'm particularly interested in AI-driven systems and distributed architectures, exploring how data can enhance automation and decision-making while designing scalable and fault-tolerant systems that ensure efficiency and reliability in large-scale applications. 
 
