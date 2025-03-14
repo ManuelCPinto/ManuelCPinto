@@ -111,7 +111,7 @@ I'm a Master’s student in Computer Science at NOVA FCT, with a strong interest
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ManuelCPinto" target="_blank">
+  <a href="https://www.linkedin.com/in/manuelcoelhopinto" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="50" height="50" style="margin: 0 15px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -119,11 +119,11 @@ I'm a Master’s student in Computer Science at NOVA FCT, with a strong interest
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="50" height="50" style="margin: 0 15px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/ManuelCPinto" target="_blank">
+  <a href="https://leetcode.com/u/Manuel_CP/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50" style="margin: 0 15px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/ManuelCPinto" target="_blank">
+  <a href="https://www.kaggle.com/manuelpinto70545" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="50" height="50" style="margin: 0 100px;"/>
   </a>
 </p>
