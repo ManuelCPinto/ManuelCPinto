@@ -20,10 +20,6 @@ I'm a Master’s student in Computer Science at NOVA FCT, with a strong interest
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:77dd77,100:b4d3b2&height=5" />
 
-<p align="center" style="color:#77dd77; font-size:16px;">
-  Feel free to browse my repositories or reach out for collaboration.
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/manuelcoelhopinto" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="50" height="50" style="margin: 0 15px;"/>
