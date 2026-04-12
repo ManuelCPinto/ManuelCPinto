@@ -1,22 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:77dd77,100:b4d3b2&text=Manuel%20Pinto&reversal=false&animation=fadeIn&textBg=false&fontSize=60&desc=Software%20Engineer%20|%20MSc%20in%20Computer%20Science&descSize=25&descAlignY=55&fontAlignY=38)
 
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=ManuelCPinto&show_icons=true&bg_color=0D1117&title_color=C8FFD4&text_color=FFFFFF&icon_color=C8FFD4&border_color=C8FFD4"
-       alt="GitHub Stats"
-       width="49%"
-       style="vertical-align:top; margin-right:2%;"
-  />
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCPinto&layout=compact&bg_color=0D1117&title_color=C8FFD4&text_color=FFFFFF&icon_color=C8FFD4&border_color=C8FFD4"
-       alt="Top Languages"
-       width="37.3%"
-       style="vertical-align:bottom; margin-left:2%;"
-  />
-</p>
-
-## **About Me**
-I'm a Master’s student in Computer Science at NOVA FCT, with a strong interest in software engineering. I'm particularly interested in AI-driven systems and distributed architectures, exploring how data can improve automation and decision-making while designing scalable and fault-tolerant systems that ensure efficiency and reliability in large-scale applications. 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:77dd77,100:b4d3b2&height=5" />
 
